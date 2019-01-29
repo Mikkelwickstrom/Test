@@ -1,0 +1,25 @@
+	body {
+		background-image: url("Sten.jpg");
+		background-repeat: no-repeat;
+		background-color: #cccccc;
+		background-position: center;
+		background-size: cover;
+		text-align: center;
+		list-style: inside;
+		color: white;
+
+		}
+
+	h1 {
+	text-align: center;
+	color: white;
+	}
+	li a{
+		color: white;
+	}
+	ul{
+		color: white;
+		list-style: inside;
+
+	
+	
