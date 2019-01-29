@@ -6,20 +6,20 @@
 		background-size: cover;
 		text-align: center;
 		list-style: inside;
-		color: white;
-
+		color: lightgreen;
+		background-size: 83%;
 		}
 
 	h1 {
 	text-align: center;
-	color: white;
+	color: lightgreen;
 	}
 	li a{
-		color: white;
+		color: lightgreen;
 	}
 	ul{
-		color: white;
+		color: lightgreen;
 		list-style: inside;
 
-	
+	}
 	
