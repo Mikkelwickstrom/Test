@@ -23,11 +23,11 @@
 
 	 <plugin name="cordova-plugin-inappbrowser" spec="~2.0.1" />
 	
-	<engine name="android" spec="~9.0.0" />
+	<engine name="android" spec="~8.0.0" />
     <engine name="ios" spec="^4.5.3" />
 
 	
-	<preference name="phonegap-version" value="cli-9.0.0" />
+	<preference name="phonegap-version" value="cli-8.0.0" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
